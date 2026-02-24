@@ -2,7 +2,7 @@ import random
 
 wins_against = {
     "rock": "scissors",
-    "paper": "paper",
+    "paper": "rock",
     "scissors": "paper",
 }
 
