@@ -5,4 +5,3 @@ if pal == pal2:
     print("Palindrome")
 else:
     print("Not Palindrome")
-    
