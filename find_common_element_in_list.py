@@ -5,3 +5,7 @@ for element in my_list:
         counter[element] += 1
     else:
         counter[element] = 1
+
+print(counter)
+result = (max(counter, key=counter.get))
+print(f"The most common element in this list is: {result}")
